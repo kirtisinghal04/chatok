@@ -1,6 +1,6 @@
 import requests
 
-GEMINI_API_KEY = "AIzaSyBPHePfBYvVugn-4mWzdAfsWEIRreXdWfs"  # Replace with your Google AI API Key
+GEMINI_API_KEY = "your api here"  # Replace with your Google AI API Key
 
 def get_gemini_response(user_message):
     """Fetches AI-generated response from Gemini API"""
